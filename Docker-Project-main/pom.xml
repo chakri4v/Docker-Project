@@ -205,7 +205,7 @@
 		<repository>
 			<id>spring-release</id>
 			<name>spring-release</name>
-			<urlhttp://35.154.216.108:8081/repository/spring-release/></url>
+			<url>http://35.154.216.108:8081/repository/spring-release/></url>
 		</repository>
 		<snapshotRepository>
 			<id>spring-snapshot</id>
