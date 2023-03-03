@@ -205,12 +205,12 @@
 		<repository>
 			<id>spring-release</id>
 			<name>spring-release</name>
-			<url>http://13.233.168.36:8081/repository/spring-release/</url>
+			<urlhttp://35.154.216.108:8081/repository/spring-release/></url>
 		</repository>
 		<snapshotRepository>
 			<id>spring-snapshot</id>
 			<name>spring-snapshot</name>
-			<url>http://13.233.168.36:8081/repository/spring-snapshot/</url>
+			<url>http://35.154.216.108:8081/repository/spring-snapshot/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
